@@ -1,0 +1,16 @@
+var a = {
+"type": "FeatureCollection",
+"name": "street",
+"features": [
+{ "type": "Feature", "properties": { "jd": "福田街道" }, "geometry": { "type": "Point", "coordinates": [ 114.059737125799998, 22.527390948739999 ] } },
+{ "type": "Feature", "properties": { "jd": "园岭街道" }, "geometry": { "type": "Point", "coordinates": [ 114.089921895100005, 22.552810895410001 ] } },
+{ "type": "Feature", "properties": { "jd": "沙头街道" }, "geometry": { "type": "Point", "coordinates": [ 114.037597325899995, 22.531649132870001 ] } },
+{ "type": "Feature", "properties": { "jd": "梅林街道" }, "geometry": { "type": "Point", "coordinates": [ 114.045382373699994, 22.567687493699999 ] } },
+{ "type": "Feature", "properties": { "jd": "华富街道" }, "geometry": { "type": "Point", "coordinates": [ 114.06409592, 22.556149101399999 ] } },
+{ "type": "Feature", "properties": { "jd": "香蜜湖街道" }, "geometry": { "type": "Point", "coordinates": [ 114.0123424417, 22.53924170678 ] } },
+{ "type": "Feature", "properties": { "jd": "莲花街道" }, "geometry": { "type": "Point", "coordinates": [ 114.04011297, 22.547631452139999 ] } },
+{ "type": "Feature", "properties": { "jd": "华强北街道" }, "geometry": { "type": "Point", "coordinates": [ 114.081938017300004, 22.550310592319999 ] } },
+{ "type": "Feature", "properties": { "jd": "福保街道" }, "geometry": { "type": "Point", "coordinates": [ 114.043414324799997, 22.52194265468 ] } },
+{ "type": "Feature", "properties": { "jd": "南园街道" }, "geometry": { "type": "Point", "coordinates": [ 114.089723601100005, 22.540253793049999 ] } }
+]
+}

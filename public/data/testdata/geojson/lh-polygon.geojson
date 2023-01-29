@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "name": "longhua",
+    "crs": {
+        "type": "name",
+        "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 0,
+                "OBJECTID": 29,
+                "ID": "1d960a7e53874655a17f35e7edc8dee8",
+                "CODE": "440309",
+                "NAME": "龙华区",
+                "YSDM_GB": "650200",
+                "SYMBOL": "2",
+                "AREA": 175585158.047,
+                "DATA_SRC": "2020年4期电子地图",
+                "BGLB": " ",
+                "BGJL": " ",
+                "OLD_ID": "83",
+                "CREATE_DAT": "1609977600000",
+                "UPDATE_DAT": null,
+                "SHAPE_Leng": 94854.2920034,
+                "SHAPE_Area": 175585158.079
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [114.00645705179923, 22.632610634611307]
+            }
+        }
+    ]
+}

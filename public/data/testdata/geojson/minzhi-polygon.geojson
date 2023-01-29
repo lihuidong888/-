@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "name": "minzhi",
+    "crs": {
+        "type": "name",
+        "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "FID": 0,
+                "OBJECTID": 136,
+                "ID": "1a403209df8f4e059489fa9b93b0c054",
+                "CODE": "440309006",
+                "NAME": "民治街道",
+                "QU_CODE": "440309",
+                "QU_NAME": "龙华区",
+                "YSDM_GB": "660200",
+                "SYMBOL": "0",
+                "AREA": 29334954.5177,
+                "DATA_SRC": " ",
+                "BGLB": " ",
+                "BGJL": " ",
+                "OLD_ID": " ",
+                "CREATE_DAT": "1609977600000",
+                "UPDATE_DAT": null,
+                "SHAPE_Leng": 30820.4615529,
+                "SHAPE_Area": 29246894.3492
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [114.01871778250737, 22.615703603825768]
+            }
+        }
+    ]
+}

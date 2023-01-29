@@ -1,0 +1,18 @@
+'{
+  "type": "FeatureCollection",
+  "name": "lhdzsbsj1",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 0,
+        "卡口": "三合A2村（靠布龙路，大门岗亭）"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.99656, 22.668182] }
+    }
+  ]
+}'

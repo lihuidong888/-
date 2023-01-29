@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "name": "polyline",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10016,
+        "FID_道路": 11051,
+        "CLASS": 4,
+        "WIDTH": 30,
+        "TIME": 6.29579361,
+        "Shape_Leng": 629.57936078,
+        "walking": 9.4436904117
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [114.02071499123849, 22.61644283769419]
+      }
+    }
+  ]
+}

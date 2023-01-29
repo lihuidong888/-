@@ -1,0 +1,159 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 4.26.0 glTF Exporter 1.0.6"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 29136,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 7204,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.137008205,
+				0.00345435762,
+				-0.138586208
+			],
+			"max": [ 0.0915680081,
+				0.457014173,
+				0.135568991
+			]
+		},
+		{
+			"bufferView": 2,
+			"count": 7204,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 7204,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 7204,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 7204,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "FT_XFS_OK.bin",
+			"byteLength": 461696
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 58272,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 86448,
+			"byteOffset": 58272,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 86448,
+			"byteOffset": 144720,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 115264,
+			"byteOffset": 231168,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 57632,
+			"byteOffset": 346432,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 57632,
+			"byteOffset": 404064,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "FT_XFS_UV_Tex_OK_u1_v1.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "Material_XFS",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0.800000012,
+				"roughnessFactor": 0.800000012
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "FT_XFS_OK",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"name": "FT_XFS_UV_Tex_OK_u1_v1",
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "FT_XFS_UV_Tex_OK_u1_v1",
+			"sampler": 0,
+			"source": 0
+		}
+	]
+}

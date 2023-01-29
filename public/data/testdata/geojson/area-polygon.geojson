@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "name": "polygon",
+    "crs": {
+        "type": "name",
+        "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 17,
+                "ZDGN": "居住生活区",
+                "Shape_Leng": 5266.05795042
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [114.00943936683575, 22.63292511974089]
+            }
+        }
+    ]
+}
